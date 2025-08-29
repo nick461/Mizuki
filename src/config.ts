@@ -219,7 +219,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.gif", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "assets/images/leisai.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "Return to0",
 	bio: "世界很大,一定要去看看",
 	links: [
